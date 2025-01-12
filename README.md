@@ -3,7 +3,7 @@
 ## Intro
 這個專案「兩百個國家、兩百年、四分鐘」復刻了經典的[Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo) 動態資料視覺化，我們使用了 `pandas` 與 `sqlite3` 建立`QLite資料庫`，利用 `matplotlib` 進行靜態圖概念驗證，最後以 `plotly.express` 做出動畫成品。
 
-## Re-Creation
+## Re-Production
 - 安裝 [Miniconda] (https://docs.anaconda.com/miniconda/)
 - 依據 `environment.yml` 建立環境
 ```bash
